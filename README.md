@@ -10,3 +10,5 @@ Open another terminal in project's directory, and write:
 php artisan serve
 ```
 The web application will run on http://localhost:8000/chirps
+
+![alt text](https://github.com/Y3454R/Chirper-Laravel/blob/main/chirper_demo.png)
